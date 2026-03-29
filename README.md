@@ -9,7 +9,7 @@ This repository contains the source code for the official website of **SunTrack*
 - **SEO Optimized:** Built with search engine visibility in mind.
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3 (SCSS), JavaScript
+- **Frontend:** Next.js , tailwindcss 
 - **Architecture:** Component-based approach
 - **Deployment:** [Например: Vercel / Netlify]
 
